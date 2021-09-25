@@ -1,5 +1,5 @@
 # SenaiAtividade
-git init
+git init /n
 touch teste.txt
 git remote add origin https://github.com/thimf01/SenaiAtividade.git
 git pull origin main
